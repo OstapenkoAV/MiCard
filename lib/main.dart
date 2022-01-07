@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -21,7 +20,7 @@ class MyApp extends StatelessWidget {
                 'Ostapenko Oleksandr',
                 style: TextStyle(
                   fontFamily: 'Pacifico',
-                  fontSize: 40.0,
+                  fontSize: 40.0,                  
                   color: Colors.white,
                   fontStyle: FontStyle.normal,
                 ),
